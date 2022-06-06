@@ -131,7 +131,8 @@ nav ul li a{
   width: 540px;
 }
 .one-third-padding {
-  width: 29%;
+  padding-left: 35px;
+  width: 400px;
   float: left;
   margin: 2% 2%;
 }
